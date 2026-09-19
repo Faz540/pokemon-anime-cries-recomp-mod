@@ -97,11 +97,11 @@ You can either:
 - **Generation 1:** In development / testing
 - **Generation 2:** Planned for a future release
 
-## Note
+## Similar Mod by Leoocast
 
-It would be unfair of me if I didn't mention this.  
-I'd like to point out that [Leoocast](https://github.com/Leoocast/cry-manager-gen1recomp-mod) released an extremely similar mod a couple of days ago.  
-Both of our implementations are completely different.
+I'd like to acknowledge that [Leoocast](https://github.com/Leoocast/cry-manager-gen1recomp-mod) released a very similar mod just a couple of days before I submitted this project to the modding community.
+The similarities are entirely coincidental, as both projects were developed independently.
+Leo's implementation is more advanced, and their audio samples appear to be of higher quality. Although both mods aim to achieve a similar result, the underlying implementations are completely different.
 
 ## Credits
 
