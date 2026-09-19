@@ -1,0 +1,11 @@
+{
+  "id": "pokemon_anime_cries",
+  "name": "Pokémon Anime Cries",
+  "version": "1.0.0",
+  "entry": "main.lua",
+  "api": 2,
+  "profile": "content",
+  "games": ["blue","red","yellow","gold","silver","crystal"],
+  "description": "Replaces in-game Pokémon cries with audio from the Pokémon anime series.",
+  "github": "faz540/pokemon-anime-cries-recomp-mod"
+}
