@@ -1,6 +1,8 @@
 
 # Pokémon Anime Cries - Gen1Recomp Mod
 
+![Thumbnail](media/cries.png)
+
 A [Gen1Recomp](https://github.com/bryanthaboi/gen1recomp) mod that replaces the original in-game Pokémon cries with audio taken from the English Pokémon anime series.
 
 The initial release covers all **151 Pokémon from Generation 1**.
