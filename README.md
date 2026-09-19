@@ -82,7 +82,11 @@ Yes, this took a very long time. I went through over 100 anime episodes, extract
 
 You can either:
 - Click the [Releases](https://github.com/Faz540/pokemon-anime-cries-recomp-mod/releases/) button on this GitHub page and download the zip file (pokemon-anime-cries-recomp-mod-v1.0.0.zip) and import that as a "Import Mod .zip" file the Gen1Recomp application.
+
+![Import Mod Zip screenshot](media/import-mod-zip.png)
+
 - Install this in the Gen1Recomp application by searching for the mod "Pokémon Anime Cries"
+
 
 ## Compatibility
 
