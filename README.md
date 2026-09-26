@@ -5,9 +5,9 @@
 
 A [Gen1Recomp](https://github.com/bryanthaboi/gen1recomp) mod that replaces the original in-game Pokémon cries with audio taken from the English Pokémon anime series.
 
-The initial release covers all **151 Pokémon from Generation 1**.
+Cries from both Generation 1 and 2 now included!
 
-Support for Generation 2 Pokémon (Gold, Silver and Crystal) is planned for a future release.
+Support for Generation 3 Pokémon (Ruby, Sapphire and Emerald) is planned for a future release.
 
 [Pokémon Anime Cries Mod - Video Demonstration Youtube Link](https://www.youtube.com/watch?v=99U80CECDY4)
 
@@ -35,8 +35,6 @@ The mod is intended to support the following Gen1Recomp games:
 - Pokémon Gold
 - Pokémon Silver
 - Pokémon Crystal
-
-**Note:** Generation 1 is the initial focus. Generation 2 support and compatibility will be developed and tested separately.
 
 ## Audio Sources
 
@@ -87,15 +85,15 @@ You can either:
 
 ![Import Mod Zip screenshot](media/import-mod-zip.png)
 
-- Install this in the Gen1Recomp application by searching for the mod "Pokémon Anime Cries"
+- Sadly this mod was denied from the [Gen1Recomp project](https://github.com/bryanthaboi/gen1recomp) due to me using audio from the actual anime.
 
 
 ## Compatibility
 
 - **Gen1Recomp API:** Version 2
-- **Initial release:** Version 1.0.0
-- **Generation 1:** In development / testing
-- **Generation 2:** Planned for a future release
+- **Generation 1:** Complete
+- **Generation 2:** Complete
+- **Generation 3:** In Development/Testing
 
 ## Similar Mod by Leoocast
 
